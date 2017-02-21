@@ -1,0 +1,27 @@
+HTML BODY { background-color: #1D1D1D; color: #FFFFFF; font-family: Ubuntu Condensed; font-size: 21px; margin: 0; }
+
+HTML BODY HEADER { background-color: rgba(3, 3, 3, 0.547); overflow: hidden; height: 55px; margin-bottom: 8px; }
+
+HTML BODY #contener { margin-left: auto; margin-right: auto; width: 900px; }
+
+#contener .pleinscontener .titre { padding-top: 5px; padding-bottom: 6px; border-bottom: 1px solid rgba(0, 0, 0, 0.116); margin-bottom: 5px; color: rgba(117, 129, 82, 0.756); width: ; }
+
+#contener .pleinscontener .affiche { float: left; height: 252px; width: 163px; margin-right: -2px; margin-left: 0; }
+
+DIV.affiche .bouton { background-color: rgba(0, 0, 0, 0.547); height: 30px; padding: 0 0 0 0px; width: 150px; text-align: center; line-height: 1.7; margin-left: 0px; margin-top: -2px; border-radius: 0px 0px 5px 5px; font-size: 16px; border: 1px solid rgba(255, 255, 255, 0.163); margin-right: 0; /*+box-shadow: 0px 1px rgba(77, 77, 77, 0.163);*/ -moz-box-shadow: 0px 1px rgba(77, 77, 77, 0.163); -webkit-box-shadow: 0px 1px rgba(77, 77, 77, 0.163); box-shadow: 0px 1px rgba(77, 77, 77, 0.163); }
+
+DIV.affiche IMG { height: 208px; width: 150px; border-radius: 5px 5px 0px 0px; border-left: 1px solid rgba(255, 255, 255, 0.116); border-right: 1px solid rgba(255, 255, 255, 0.105); border-top: 1px solid rgba(255, 255, 255, 0.105); }
+
+HTML BODY #contener #droit { width: 489px; float: left; /*+border-radius: 0;*/ -moz-border-radius: 0; -webkit-border-radius: 0; -khtml-border-radius: 0; border-radius: 0; }
+
+HEADER .logo { float: left; height: 19px; width: 161px; font-size: 34px; margin-top: 8px; margin-left: 0px; border-bottom: 1px solid black; }
+
+.pleinscontener .box { width: 826px; }
+
+HEADER .menu .tabs { float: left; width: 93px; font-size: 17px; padding-bottom: 11px; line-height: 3.2; text-align: center; padding: 11px 6px 0px; margin-top: -9px; margin-right: 2px; color: rgba(121, 134, 84, 0.965); /*+box-shadow: 0 0 0px;*/ -moz-box-shadow: 0 0 0px; -webkit-box-shadow: 0 0 0px; box-shadow: 0 0 0px; }
+
+#gauche .recherche { padding-top: 0; padding: 5px; margin-top: 10px; margin-left: -32px; }
+
+HEADER #contener #gauche .recherche #film { border: 1px solid #FFFFFF; /*+border-radius: 6px;*/ -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; border-radius: 6px; padding-top: 6px; padding-left: 6px; padding-bottom: 5px; width: 292px; }
+
+HEADER #contener #gauche { float: right; width: 362px; }
